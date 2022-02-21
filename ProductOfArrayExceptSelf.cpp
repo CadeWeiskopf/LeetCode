@@ -1,7 +1,7 @@
 /*
 * Cade Weiskopf
 * Runtime: 30 ms, faster than 60.29% of C++ online submissions for Product of Array Except Self.
-* Memory Usage: 25 MB, less than 42.16% of C++ online submissions for Product of Array Except Self.
+* Memory Usage: 24.8 MB, less than 42.16% of C++ online submissions for Product of Array Except Self.
 */
 
 class Solution {
